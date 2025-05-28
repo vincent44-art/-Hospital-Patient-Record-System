@@ -57,12 +57,3 @@ The `main.py` file contains demonstration code showing how to use all the system
 1. Run it directly to see the system in action
 2. Use it as reference to build your own interface
 3. Import and use the operations modules in your own code
-
-## Extending the System
-
-To add more functionality:
-
-1. Create new operation files for additional entities
-2. Add new tables to `database/db.py`
-3. Create new model classes in `database/models.py`
-4. Implement new operation functions following the existing patterns
